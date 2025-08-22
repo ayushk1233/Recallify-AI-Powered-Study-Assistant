@@ -294,9 +294,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **GitHub Issues**: [Report bugs or request features](https://github.com/yourusername/recallify/issues)
-- **Discussions**: [Join the community](https://github.com/yourusername/recallify/discussions)
-- **Email**: your.email@example.com
+- **GitHub Issues**: [Report bugs or request features](https://github.com/ayushk1233/recallify/issues)
+- **Discussions**: [Join the community](https://github.com/ayushk1233/recallify/discussions)
+- **Email**: ayushk1503@gmail.com
 
 ---
 
